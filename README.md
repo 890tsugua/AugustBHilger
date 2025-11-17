@@ -18,9 +18,9 @@ Successfully developed a custom adaptation of Mask R-CNN to detect and sub-pixel
 - Built a fully functional training pipeline complete with simulation of ground truth data and performance validation.
 - Achieved a model that works on real experimental data and matches or exceeds the performance of conventional methods.
 
-**[Link to the final paper:](./Bachelor_FINAL_compressed.pdf)*
+**[Link to the final paper](./Bachelor_FINAL_compressed.pdf)**
 
-**Link to the repo:** _Add github link_
+**[Link to the repo](https://github.com/890tsugua/bachelor1)**_
 
 ---
 
@@ -36,7 +36,7 @@ Implemented components of a molecular dynamics (MD) simulation and used it to ex
 - Analyzed ensemble behavior, distributions, and time correlation functions.  
 - Produced visualizations and applied statistical physics concepts from coursework.
 
-**Link:** _Add GitHub URL here_
+**[Link to notebook](./Diffusion_Project_V2.ipynb)**
 
 ---
 
@@ -53,7 +53,6 @@ Implemented graph-based algorithms and data structures from scratch, including a
 - Built test cases and performance checks.  
 - Strengthened understanding of algorithm design and complexity.
 
-**Link:** _Add GitHub URL here_
 
 ---
 
