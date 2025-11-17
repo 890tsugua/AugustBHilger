@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Hi there! I’m a BSc Nanoscience graduate with a strong mathematical background and hands-on experience in deep learning, data analysis, and algorithmic programming. I have applied these tools to solve problems across disciplines, ranging from statistical physics to molecular biology. Here is my data science portfolio.
+I’m a BSc Nanoscience graduate with a strong mathematical foundation and hands-on experience in deep learning, scientific computing, and data analysis. My work spans statistical physics, molecular biology, and computational imaging, with a focus on building algorithms and models that solve real scientific problems.
 
 ---
 
@@ -8,19 +8,20 @@ Hi there! I’m a BSc Nanoscience graduate with a strong mathematical background
 
 ### 1. Region-based Deep Learning for Sub-Pixel Localization  
 **BSc Project in the Hatzakis Group, Dept. of Chemistry, University of Copenhagen**  
-**Tech:** Deep Learning, Computer Vision, PyTorch, 
+**Tech:** Deep Learning, Computer Vision, PyTorch, Fluorescence Microscopy
 
 **Summary**  
 Successfully developed a custom adaptation of Mask R-CNN to detect and sub-pixel localize point spread functions (PSFs) in noisy, heterogeneous backgrounds. Accurate and efficient PSF localization is a key part of Single Molecule Studies, facilitating studies of eg. mRNA vaccines, enzymatic activity and lipid nanoparticles. 
 
 **What I did**  
-- Gained practical experience with Deep Learning and explored state-of-the-art object detection models including **Faster R-CNN, YOLO, DETR**, and Mask R-CNN variants.  
-- Built a fully functional training pipeline complete with simulation of ground truth data and performance validation.
-- Achieved a model that works on real experimental data and matches or exceeds the performance of conventional methods.
+- Researched and experimented with state-of-the-art object detection frameworks, including Faster R-CNN, YOLO, DETR, and Mask R-CNN variants, to understand trade-offs in speed, accuracy, and architecture.
+- Built a full training pipeline including simulations of synthetic ground truth data, data normalization and performance evaluation.
+- Developed a modified custom ROI head including 
+- Demonstrated performance on real fluorescence microscopy data that competes with conventional analytical localization methods.
 
 **[Link to the final paper](./Bachelor_FINAL_compressed.pdf)**
 
-**[Link to the repo](https://github.com/890tsugua/bachelor1)**_
+**[Link to the repo](https://github.com/890tsugua/bachelor1)**
 
 ---
 
