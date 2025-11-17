@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-I’m a BSc Nanoscience graduate with a strong mathematical foundation and hands-on experience in deep learning, scientific computing, and data analysis. My work spans statistical physics, molecular biology, and computational imaging, with a focus on building algorithms and models that solve real scientific problems.
+I’m a BSc Nanoscience graduate with a strong mathematical foundation and hands-on experience in deep learning, scientific computing, and data analysis. My work spans statistical physics to molecular biology with a focus on building algorithms and models that solve real scientific problems.
 
 ---
 
@@ -15,8 +15,8 @@ Successfully developed a custom adaptation of Mask R-CNN to detect and sub-pixel
 
 **What I did**  
 - Researched and experimented with state-of-the-art object detection frameworks, including Faster R-CNN, YOLO, DETR, and Mask R-CNN variants, to understand trade-offs in speed, accuracy, and architecture.
-- Built a full training pipeline including simulations of synthetic ground truth data, data normalization and performance evaluation.
-- Developed a modified custom ROI head including 
+- Built a functional end-to-end training pipeline including simulations of synthetic ground truth data, data normalization and performance evaluation.
+- Developed and added a tailored ROI head to the Faster-RCNN framework for custom predictions.
 - Demonstrated performance on real fluorescence microscopy data that competes with conventional analytical localization methods.
 
 **[Link to the final paper](./Bachelor_FINAL_compressed.pdf)**
