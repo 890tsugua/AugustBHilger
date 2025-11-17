@@ -18,7 +18,8 @@ Successfully developed a custom adaptation of Mask R-CNN to detect and sub-pixel
 - Built a fully functional training pipeline complete with simulation of ground truth data and performance validation.
 - Achieved a model that works on real experimental data and matches or exceeds the performance of conventional methods.
 
-**Link to the final paper:** _Add paper_
+**[Link to the final paper:](./Bachelor_FINAL_compressed.pdf)*
+
 **Link to the repo:** _Add github link_
 
 ---
