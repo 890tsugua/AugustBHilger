@@ -11,7 +11,7 @@ I’m a BSc Nanoscience graduate with a strong mathematical foundation and hands
 **Tech:** Deep Learning, Computer Vision, PyTorch, Fluorescence Microscopy
 
 **Summary**  
-Successfully developed a custom adaptation of Mask R-CNN to detect and sub-pixel localize point spread functions (PSFs) in noisy, heterogeneous backgrounds. Accurate and efficient PSF localization is a key part of Single Molecule Studies, facilitating studies of eg. mRNA vaccines, enzymatic activity and lipid nanoparticles. 
+Successfully developed a custom adaptation of Mask R-CNN to detect and sub-pixel localize point spread functions (PSFs) in noisy, heterogeneous backgrounds. Accurate and efficient PSF localization is a key step in modern Single Molecule Studies, facilitating studies of eg. mRNA vaccines, enzymatic activity and lipid nanoparticles. 
 
 **What I did**  
 - Researched and experimented with state-of-the-art object detection frameworks, including Faster R-CNN, YOLO, DETR, and Mask R-CNN variants, to understand trade-offs in speed, accuracy, and architecture.
